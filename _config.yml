@@ -29,7 +29,8 @@ github_username: danielmroczka
 linkedin_username: danielmroczka
 
 # Build settings
-theme: minima
+theme: minimal-mistakes
+# minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
