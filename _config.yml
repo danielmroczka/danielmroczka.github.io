@@ -29,7 +29,7 @@ github_username: danielmroczka
 linkedin_username: danielmroczka
 
 # Build settings
-theme: minimal-mistakes
+theme: minimal-mistakes-jekyll
 # minima
 plugins:
   - jekyll-feed
