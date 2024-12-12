@@ -1,2 +1,2 @@
-# danielmroczka.github.io
-http://danielmroczka.github.io/
+# Blog danielmroczka.github.io
+link: http://danielmroczka.github.io
