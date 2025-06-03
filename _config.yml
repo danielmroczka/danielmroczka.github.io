@@ -28,11 +28,23 @@ twitter_username: danielmroczka
 github_username: danielmroczka
 linkedin_username: danielmroczka
 
+minimal_mistakes_skin: default
+search: true
+
 # Build settings
-theme: minimal-mistakes-jekyll
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+# Build settings
+# theme: minimal-mistakes-jekyll
 # minima
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
